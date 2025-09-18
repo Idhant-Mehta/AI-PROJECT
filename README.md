@@ -226,31 +226,6 @@ ls   # Should show zomato.csv
 
 ---
 
-## License 📄
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-## Contact 📧
-**Idhant Mehta**
-- 📧 Email: [idhant@example.com](mailto:idhant@example.com)
-- 🐙 GitHub: [Idhant-Mehta](https://github.com/Idhant-Mehta)
-- 🔗 LinkedIn: [Connect with me](https://linkedin.com/in/idhant-mehta)
-
----
-
-## Acknowledgments 🙏
-- **Zomato** for providing the restaurant data structure reference
-- **Python Data Science Community** for excellent libraries
-- **Jupyter Project** for the interactive notebook environment
-
----
-
-<div align="center">
-
-**⭐ If you found this project helpful, please give it a star! ⭐**
-
-Made with ❤️ using Python | Last Updated: January 2025
-
-</div>
 
